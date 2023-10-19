@@ -158,8 +158,8 @@
   grid-template-columns: repeat(6, 1fr);
   grid-template-rows: repeat(6, 100px);
   grid-gap: 0;
-  width: 608px;
-  height:606px;
+  width: 600px;
+
 }
 .red6 {
   width: 400px;
