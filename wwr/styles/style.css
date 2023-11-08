@@ -245,15 +245,15 @@ nav {
     word-wrap: break-word;
     vertical-align: middle; 
 }
-.aboutus-question .question h3  {
+.about-question .question h3  {
     font-size: 16px;
     padding: 10px;
 }
-.aboutus-question .question p {
+.about-question .question p {
     font-size: 14px;
     padding: 10px;
 }
-.aboutus-question .question li {
+.about-question .question li {
     font-size: 14px;
     padding: 5px;
 }
