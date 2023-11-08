@@ -233,7 +233,7 @@ nav {
     margin: 10%;
 
 }
-.aboutus-grid {
+.about-question {
     display: grid;
     grid-template-columns: repeat(2, 1fr);
     text-align: center;
