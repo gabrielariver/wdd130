@@ -71,7 +71,7 @@ header {
 }
 
 footer {
-    background-color:rgba(160, 117, 146, 0.7);
+    background-color:rgba(218, 172, 233, 0.7);
     padding: 25px 50px;
     margin-top: 200px;
     display: flex;
@@ -83,7 +83,7 @@ footer a {
     text-decoration: none;
 }
 footer a:hover {
-    color: #224741;
+    color: #dc95e7;
 }
 footer p {
     font-size: 1.2em;
@@ -136,6 +136,44 @@ footer .social img {
     max-width: 600px;
     margin: 10%;
     flex: 1;
+}
+
+/*about us*/
+.aboutus {
+    text-align: center;
+    font-family: 'IBM Plex Mono', 'Martian Mono' , monospace;
+}
+.aboutus-img {
+    width: 25%;
+    border: 10px solid rgba(218, 172, 233, 0.7);
+}
+.aboutus-inf {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    text-align: center;
+    box-sizing: border-box; 
+    align-items: center;
+    justify-items: center; 
+}
+.aboutus {
+    text-align: center;
+}
+.aboutus h2 {
+    margin-top: 70px;
+}
+.company{
+    background:rgba(218, 172, 233, 0.7);
+    margin: 30px;
+    vertical-align: middle;
+    width: 70%;
+}
+.aboutus-inf .company h3  {
+    font-size: 16px;
+    padding: 10px;
+}
+.aboutus-inf .company p {
+    font-size: 14px;
+    padding: 10px;
 }
 
 @media screen and (max-width: 900px) {
