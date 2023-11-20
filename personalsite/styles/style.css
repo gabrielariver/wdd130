@@ -12,6 +12,7 @@ body {
     padding-top: 5px;
     justify-self: center;
     align-self: center;
+    margin-left: 100px; 
 }
 .logo {
     width: 80px;
