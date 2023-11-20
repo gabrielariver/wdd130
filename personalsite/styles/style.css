@@ -18,8 +18,8 @@ h2 {
     margin: 0;
 }
 nav a:hover {
-    background-color: rgb(26, 26, 26);
-    color: #ceafff;
+    background-color: #fcd6f9;
+    color: #040404;
 }
 nav {
     display: flex;
@@ -27,7 +27,7 @@ nav {
 }
 nav a {
     text-align: center;
-    background-color: #ceafff;
+    background-color: #ffc6fe;
     color: #080502;
     text-decoration: none;
     padding: 35px;
@@ -71,7 +71,7 @@ header {
 }
 
 footer {
-    background-color:rgba(218, 172, 233, 0.7);
+    background-color:#ceafff;
     padding: 25px 50px;
     margin-top: 200px;
     display: flex;
