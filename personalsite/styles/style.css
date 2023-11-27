@@ -11,11 +11,11 @@ body {
 #logo_link {
     padding-top: 5px;
     justify-self: center;
-    align-self: center;
-    margin-left: 100px; 
+    align-self: center; 
 }
 .logo {
     width: 80px;
+    max-width: 80px;
 }
 h2 {
     margin: 0;
@@ -181,6 +181,10 @@ footer .social img {
 }
 
 @media screen and (max-width: 900px) {
+    .logo {
+        max-width: 80px; 
+        width: auto; 
+    }
     nav, footer {
         flex-direction: column;
     }
@@ -223,7 +227,5 @@ footer .social img {
     .services-img img {
         margin: 0 auto; 
         display: block;
-    }
-    /*About Us*/
-    
+    }   
 }
