@@ -10,10 +10,10 @@ spent creating innovative solutions and bringing new ideas to life through code.
 Brief and compelling description of the first project. [[Link to Site Plan Rafting](https://gabrielariver.github.io/wdd130/wwr/site-plan-rafting.html)]
 
 **Site Plan Personal Web Site**
-Brief and compelling description of the second project. [Link to Site Plan Personal Site](https://gabrielariver.github.io/wdd130/personalsite/site-plan.html))]
+Brief and compelling description of the second project.  [[Link to Site Plan Personal Site](https://gabrielariver.github.io/wdd130/personalsite/site-plan.html))]
 
 **STRATEGIA WEB PAGE**
-Brief and compelling description of the third project. [Link to Personal Site](https://gabrielariver.github.io/wdd130/personalsite/index.html)]
+Brief and compelling description of the third project. [[Link to Personal Site](https://gabrielariver.github.io/wdd130/personalsite/index.html)]
 
 ### Contact and Social Media
 
